@@ -1,0 +1,14 @@
+# Test outputs and client data
+*.mp4
+*.png
+*.srt
+*.ass
+*.json
+*.txt
+sections/
+__pycache__/
+.omc/
+
+# Keep these
+!captions-bg.png
+!InstrumentSans-Bold.ttf
